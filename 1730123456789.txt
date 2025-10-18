@@ -1,0 +1,1 @@
+{"batch":1,"prev_cid":"","data":{"nft_1.txt":"QmXXX"}}
